@@ -1,5 +1,7 @@
 # Technical interview
 
+Updated Image Slider for review by @andrewrubin.
+
 ## Software requirements
 
 In order get up and running with this project, you'll need:
